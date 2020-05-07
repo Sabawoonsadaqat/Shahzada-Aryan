@@ -13,7 +13,7 @@ pkg install python2
 pip2 install requests
 
 
-git clone https://github.com/Mohammadjan1122/AMK
+git clone https://github.com/Shahzada_Aryan/AMK
 
  cd AMK
 
