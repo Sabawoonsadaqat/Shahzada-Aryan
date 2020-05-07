@@ -1,0 +1,22 @@
+pkg update
+
+ pkg upgrade
+
+ pkg install git
+
+ pkg install python
+
+pkg install python2
+
+ pip2 install mechanize
+
+pip2 install requests
+
+
+git clone https://github.com/Mohammadjan1122/AMK
+
+ cd AMK
+
+chmod 777 AKM.py
+
+ python2 AKM.py
